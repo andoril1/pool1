@@ -122,11 +122,11 @@
         "id": "mewc1",
         "enabled": true,
         "coin": "meowcoin",
-        "address": "",
+        "address" :"M7uHufonsTAM4w2PAy2oSQQUved9r9oFkv",
         "rewardRecipients": [
           {
             "type": "op",
-            "address": "",
+            "address": "M7uHufonsTAM4w2PAy2oSQQUved9r9oFkv",
             "percentage": 1
           }
         ],
@@ -155,7 +155,7 @@
         "daemons": [
           {
             "host": "127.0.0.1",
-            "port": 7001,
+            "port": 8788,
             "user": "mewcuser",
             "password": "mewcpassword"
           }
